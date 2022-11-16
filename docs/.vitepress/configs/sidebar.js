@@ -30,10 +30,6 @@ function getComponentsSidebar() {
       text: '常用组件',
       children: [
         {
-          text: 'Icon',
-          link: '/components/icons',
-        },
-        {
           text: 'Statistic',
           link: '/components/statistic',
         },
